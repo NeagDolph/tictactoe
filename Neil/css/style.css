@@ -1,0 +1,25 @@
+li {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    background: lightgray;
+    border:solid 1px black;
+    background-size: contain;
+}
+
+.x {
+    background-image: url("../images/x.jpg")
+}
+
+.o {
+    background-image: url("../images/o.jpg")
+}
+
+ul {
+    width: 300px;
+    height: 300px;
+    border: solid 1px black;
+    padding-left: 10px;
+    padding-top: 10px;
+}
